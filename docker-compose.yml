@@ -4,3 +4,6 @@ services:
   app:
     build: .
     environment:
+      API_HASH: $74915c88e05a2a36a60d4f1b30fea31a
+      API_ID: $15328118
+      BOT_TOKEN: $5548213415:AAGX0oWPlPjWv_hfiiqSavBBzYvCgQV3i_k
